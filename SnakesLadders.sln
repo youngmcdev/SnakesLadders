@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesLadders", "SnakesLadders\SnakesLadders.csproj", "{2DCCC56A-1CB2-43B7-B5AC-5D0EF75EA180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesLadders.Core", "SnakesLadders.Core\SnakesLadders.Core.csproj", "{A4DCE9E8-3C5F-4634-8CE1-8077EB1B281A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesLadders.Backend", "SnakesLadders.Backend\SnakesLadders.Backend.csproj", "{95DE3D46-BD03-4C3F-8FC8-5BD94782A5D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2DCCC56A-1CB2-43B7-B5AC-5D0EF75EA180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DCCC56A-1CB2-43B7-B5AC-5D0EF75EA180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DCCC56A-1CB2-43B7-B5AC-5D0EF75EA180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DCE9E8-3C5F-4634-8CE1-8077EB1B281A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DCE9E8-3C5F-4634-8CE1-8077EB1B281A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DCE9E8-3C5F-4634-8CE1-8077EB1B281A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DCE9E8-3C5F-4634-8CE1-8077EB1B281A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DE3D46-BD03-4C3F-8FC8-5BD94782A5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DE3D46-BD03-4C3F-8FC8-5BD94782A5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DE3D46-BD03-4C3F-8FC8-5BD94782A5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DE3D46-BD03-4C3F-8FC8-5BD94782A5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
